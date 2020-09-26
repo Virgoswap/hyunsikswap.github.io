@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60873ca6d06793aee60bd67d14d4337a",
+    "revision": "9030fea256e8a25cb75a9e60a514867a",
     "url": "./index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/9.15c1b14a.chunk.js"
   },
   {
-    "revision": "4aee5af46d6d6becd00c",
-    "url": "./static/js/main.0955002d.chunk.js"
+    "revision": "5e09f8bc0fabb5aa5dcd",
+    "url": "./static/js/main.987b64da.chunk.js"
   },
   {
     "revision": "0abb3cb5b05abb72e92c",
@@ -316,8 +316,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/trustWallet.edcc1ab5.png"
   },
   {
-    "revision": "eebf3ae254646c3889f203cc88345ac3",
-    "url": "./static/media/trustwallet.eebf3ae2.svg"
+    "revision": "7b9c3e75d0baa25336e6143a4e59f848",
+    "url": "./static/media/trustwallet.7b9c3e75.svg"
   },
   {
     "revision": "5e81cac236fd057cb686399a8fa2ea57",
